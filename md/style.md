@@ -1,4 +1,4 @@
-#### REACT STYLE
+#### REACT INLINE STYLE
 
 <code>
 
@@ -20,3 +20,4 @@
 ##### style = {} 目前狀態是object
 
 ##### Reference  https://andy6804tw.github.io/2018/02/02/styling-react-components/
+
