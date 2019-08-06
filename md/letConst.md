@@ -22,6 +22,8 @@
 > #### 從外而內繼承
 > - function scope 函式作用域
 > - global scope  全域作用域
+
+> block 變數有效範圍
 > #### 從內而外繼承
 > block
 > {大括號} 括起來的範圍就叫做block，除了物件
